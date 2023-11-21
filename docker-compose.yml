@@ -1,0 +1,38 @@
+version: "3"
+
+services:
+  chess-club:
+    container_name: chesscorp
+    image: chesscorp/chess-club
+    restart: always
+    ports:
+      - "80:80"
+    environment:
+      CLUB_DB_URL: jdbc:postgresql://db:5432/chess1
+      CLUB_DB_USERNAME: postgres
+      CLUB_DB_TYPE: POSTGRESQL
+      CLUB_DB_DDL: update
+      dbddl: update
+    depends_on:
+      - db
+
+  adminer:
+    container_name: adminer
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+
+  db:
+    container_name: db
+    image: postgres:9.5.25
+    restart: always
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - 5432:5432
+    volumes:
+      - ./config/postgresql.conf:/etc/postgresql/postgresql.conf
+      - ./chessdb:/var/lib/postgresql/data
+  
+

@@ -2,4 +2,3 @@
 [dev]
 pytest
 flake8
-psycopg2

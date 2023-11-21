@@ -10,7 +10,10 @@ setup(
     version="1.0.0",
     url="https://github.com",
     python_requires=">=3.8",
+    install_requires=[
+        "psycopg2" 
+    ],
     extras_require={
-        "dev": ["pytest", "flake8", "psycopg2"],
+        "dev": ["pytest", "flake8"],
     },
 )

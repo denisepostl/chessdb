@@ -1,0 +1,111 @@
+id,event,round,site,start_date,status,black_player,white_player,pgn,expected,score,text
+1,,,,<memory at 0x000001883E969540>,1,denise,Simple AI,b4,,-10000,w-------q----K-------b----p--q----------------------k-----------------
+1,,,,<memory at 0x000001883E9693C0>,1,denise,Simple AI,Ke2,Qhg2+ Ke1 Qb1#,-9997,b-------q----K-------b-------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E969300>,1,denise,Simple AI,h1=Q+,Kf2 Qe3#,-9998,w--b--K-q--------------------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E969840>,1,denise,Simple AI,Kf1,h1=Q+ Kf2 Qe3#,-9997,b--b--K---------p------------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E969480>,1,denise,Simple AI,axb1=Q,Kg2 Qh7 Kh1 Qh4 Kg2 h1=Q#,-9994,w-qb--K---------p-----------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E9684C0>,1,denise,Simple AI,Bc1,Kg2 a1=Q Rh3 Bf4 Rh7+ Kd8 Kf3 Be5 Rxh2 Bxh2,-1432,w--b--K--p------p-R---------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E969E40>,1,denise,Simple AI,Ba3,Rd1+ Kc6 Kg2 Bb2 Kxh2 b4 Re1 Kc5 Kg3 a1=Q Rxa1 Bxa1,-714,w-R---K--p------pb----------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E969F00>,1,denise,Simple AI,Nf1,Rxf1 Bc3 Kg3 Be5+ Kf3 b4 Rd1+ Ke6 Kg2 a1=Q Rxa1 Bxa1 Kxh2,-752,w-R---n--p----K-p---------b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E969FC0>,1,denise,Simple AI,h2,Kg2 Bc3 Kxh2 b4 Rc1 a1=Q Rxa1 Bxa1 Kg3 b3,-1287,w---R----p--n-K-p---------b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A080>,1,denise,Simple AI,Kf2,axb1=Q Nxb1 h2 Kg2 Bd6 Nc3 Ng3 Kxh2 Ne4+ Kg2 Nxc3,-823,b-R---n--p--N-K---------p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A140>,1,denise,Simple AI,Rb1,Nxd2 Nxd2 cxd2 Ra1 h2 Kd3 a2 Rf1 Ke6 Ke2,-604,b-R---n-----NK---p-p--N-p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A200>,1,denise,Simple AI,Rb2,axb2 Nxf1 c2 Ne5+ Kc7 Nd3 b1=Q Kf2 Bc5+ Nxc5 c1=Q Ne6+ Kb7,-1612,b-----n---R-NK---p-p--N-p-b---------------p---------k-----------------
+1,,,,<memory at 0x000001883E96A2C0>,1,denise,Simple AI,Kf2,Qhe1#,-9999,b--b----q-----K--------------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A380>,1,denise,Simple AI,Kf2,h1=Q Kg3 Qb3+ Kf2 Qe3#,-9995,b-qb----------K-p-----------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A440>,1,denise,Simple AI,Rb3,a1=Q+ Kf2 h1=Q Rd3+ Kc6 Rd6+ Bxd6 Ke2 Qae1+ Kd3 Qhe4#,-9989,b-----K--p------pbR---------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A500>,1,denise,Simple AI,Rb1,axb1=Q Kg3 Bd6+ Kh4 Qg1 Kh3 h1=Q#,-9993,b-R------p--n-K-p---------b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A5C0>,1,denise,Simple AI,Nxd2,Ra1 Ne4+ Kf3 Nc3 Kg3 Bd6+ Kxh3 b4 Kg4 b3,-716,w-R------p--n-K---------p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A680>,1,denise,Simple AI,a2,Rxf1 Bc3 Nb3 h2 Kd3 b4 Rd1 Ke6 Ke4,-95,w-R---n--p--NK----------p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A740>,1,denise,Simple AI,cxd2,Rxf1 Bc3 Nxd2 a2 Nb3 h2 Kd3 b4 Nc5+ Kc6 Nb3,-92,w-R---n-----pK---p----N-p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A800>,1,denise,Simple AI,b5,Rxb4 Nxd2 Nxd2 cxd2 Rb1 a2 Rh1 h2 Kxd2 b4 Re1,-114,w-----n---R-NK---p-p--N-p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96A8C0>,1,denise,Simple AI,h3,Nxf1 Bxb4 Nxh3 b5 Kd3 Kd6 Re2 Kc6,365,w-----nN-R--NK---p-p----p-P---------------p---------kb----------------
+1,,,,<memory at 0x000001883E96A980>,1,denise,Simple AI,Ng1,Nxd2 Rxa3 Bxb4 Ra7+ Kd6 Kd3 Nb3 Nf3 h3,-201,b-----nN-R--NK---p-p------P-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96AA40>,1,denise,Simple AI,Be3+,Ke2 Bd4+ Kd2 Qhe1#,-9996,w-------q-----K------b-------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E96AB00>,1,denise,Simple AI,Qe4,Kg3 h1=Q Kf2 Qe3#,-9996,w--b----------K-p------------q----p-----------------k-----------------
+1,,,,<memory at 0x000001883E96ABC0>,1,denise,Simple AI,Rb1,h1=Q+ Kf2 axb1=Q Kg3 Qd3+ Kf2 Qhf1#,-9993,b-Rb--K--p------p-----------------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96AC80>,1,denise,Simple AI,Kxf1,axb1=Q+ Kf2 h1=Q Kg3 Bd6+ Kf2 Qbe1#,-9993,b-R---K--p------p---------b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96AD40>,1,denise,Simple AI,Rd1,Bc3 Kg3 b4 Kxh3 b3 Rc1 a1=Q Rxa1 Bxa1 Kg4,-1277,b---R----p--n-K---------p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96AE00>,1,denise,Simple AI,Nxd2,Nxd2 Rd1 a2 Kd3 Kc6 Kc2 Ne4 Kb2 Bc5 Kc2,-729,b-R---n-----NK---p------p-b-------p-----------------k-----------------
+1,,,,<memory at 0x000001883E96AEC0>,1,denise,Simple AI,Bxb4,Nxf1 Kc6 Ng5 b5 Kd3 Be7 Nxh3 b4,274,w-----n--R--NK---p-p--N-p-b---------------p---------k-----------------
+1,,,,<memory at 0x000001883E96AF80>,1,denise,Simple AI,Ngf3,Nxd2 Rxa3 Nxf3 Kxf3 Bxb4 Ra7+ Ke6 Ra2 Bd6 Ke4,-295,b-----n--R--NK---p-p--N-p-P---------------p---------kb----------------
+1,,,,<memory at 0x000001883E96B040>,1,denise,Simple AI,Kxe2,Nxd2 Kd3 b5 Kxc3 Nc4 Rf2 a3 Nf4 Bf6+ Kb3,-143,b-----n--R--NK-----p----NpP-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96B100>,1,denise,Simple AI,a3,Nxf1 Bxb4 Kd3 b5 Ne3 Bc5 Ng2 b4 Nxh4,276,w-----n--R--NK---p-p----N-P-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96B1C0>,1,denise,Simple AI,Nxf1,Kxe2 Nxd2 Kd3 b5 Kxc3 Nc4 Nf4 a3,-137,w---K-n--R--Nr-----p----NpP-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96B280>,1,denise,Simple AI,axb4,Rxd2+ Rxd2+ cxd2 Bb5+ Kc7 Bxa4 Bxb4 Nf4 Kd6 Bc2 Bc3 Bd3,-389,b---K-B--R--Nr-----p---nNpP-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96B340>,1,denise,Simple AI,h4,axb4 Rxd2+ Rxd2+ cxd2 Bb5+ Kd8 Bxa4 Bxb4 Nf4 Ne4 Bb3 b5,-399,w---K-B--R--Nr---P-p---nNpn-----p---------p---------kb----------------
+1,,,,<memory at 0x000001883E96B400>,1,denise,Simple AI,Kd1,Nxf1 Kxe2 Nxa2 Nf3 Ng3+ Kd3 Bxa3 Nf4 Bd6,-783,b---K-B--R--Nr---P-p---nNpn-------------p-p---------kb----------------
+1,,,,<memory at 0x000001883E96B4C0>,1,denise,Simple AI,Be7,Bxe2 Nxa2+ Kd1 Nxe2 Nf3 Nac1 Ne5+ Kc7 Nc4 h4,-712,w--K--B--R--Nr---P-p---nNpn-------------p-p---------kb----------------
+1,,,,<memory at 0x000001883E96B580>,1,denise,Simple AI,Nd2,Re1#,-9999,b--K--B--R--Nr---P-p---nNpn-----b-------p-p---------k-----------------
+1,,,,<memory at 0x000001883E96B640>,1,denise,Simple AI,Kd7,Rxe2 Nd3+ Kc2 Nxe2 Bxe2 Ne1+ Kxc3 Nxf3 Bxf3 Be7 Kb2 h4,62,w--K--B--R---r---P-p--NnNpn-----b-------p-p---------k-----------------
+1,,,,<memory at 0x000001883E96B700>,1,denise,Simple AI,Nxf3,Nxa2+ Kb1 c2+ Kxa2 c1=Q+ Bxe2 Nxe2 Nxh4 Nc3#,-9991,b--K--B--R---r---P-p--NnNpn-----b-------p-p------------------k--------
+1,,,,<memory at 0x000001883E96B7C0>,1,denise,Simple AI,Bxh4,Bxe2 Nxa2+ Kb1 fxe2 Nf3 Nf5 Nf4 c2+ Kxc2 Nd4+ Kd3 Nxf3 Kxe2,-788,w--K--B--R--Nr---P-p--pnNpn-----b-------p-p------------------k--------
+1,,,,<memory at 0x000001883E96B880>,1,denise,Simple AI,Rxa2,Re1#,-9999,b--K--B--R--Nr---P-p--pnNpn-----P-------p-p---b--------------k--------
+1,,,,<memory at 0x000001883E96B940>,1,denise,Simple AI,f3,Rxa2 Re1#,-9998,wR-K--B--q--Nr---P-p--pnNpn-----P-------p-p---b--------------k--------
+1,,,,<memory at 0x000001883E96BA00>,1,denise,Simple AI,Nd2,Qc2#,-9999,bR-K--B--q--Nr---P-p---nNpn---p-P-------p-p---b--------------k--------
+1,,,,<memory at 0x000001883E96BAC0>,1,denise,Simple AI,Nb4,Rxa2 Nxa2+ Kb1 c2+ Kxa2 c1=Q+ Bxe2 Qa1#,-9992,wR-K--B--q---r---P-p--NnNpn---p-P-------p-p---b--------------k--------
+1,,,,<memory at 0x000001883E96BB80>,1,denise,Simple AI,Kc1,Qxa1#,-9999,bR-K--B--q---r---P-p--NnNp----p-P-------pnp---b--------------k--------
+1,,,,<memory at 0x000001883E96BC40>,1,denise,Simple AI,Qxa2+,Rxa2 Rxa2 Bb5+ Kd8 Bd3 Rb2+ Kc1 Nc5 Bc2 Ne2+ Kd1 Kc7 Nhg5,-904,wRK---B--q---r---P-p--NnNp----p-P-------pnp---b--------------k--------
+1,,,,<memory at 0x000001883E96BD00>,1,denise,Simple AI,Nxf3,Qb5+ Kc1 Qb2+ Qxb2 cxb2+ Kb1 bxa1=Q#,-9993,bRK---B--Q---r---P-p--NnNp-q--p-P-------pnp---b--------------k--------
+1,,,,<memory at 0x000001883E96BDC0>,1,denise,Simple AI,Nxg3,Qxc4 Rxe5 Ng5 c2+ Kc1 Re1+ Kd2 Bxa1 Kxe1 Nxf1 Nxf3,55,wRK---B--Q---r---P-p--bnNp-q--p-P----N--pnp---b--------------k--------
+1,,,,<memory at 0x000001883E96BE80>,1,denise,Simple AI,Ne5,Re1+ Kc2 Ne3#,-9997,bRK---B--Q---r---P-p--bRNp-q--p-P----Nn-pnp---b--------------k--------
+1,,,,<memory at 0x000001883E96BF40>,1,denise,Simple AI,Bf3,Qxc4 Be4+ Rd3 Bxd3+ Qxd3 Rb2+ Kc1 Nc5 Qxf5 Nb3+ Kd1 c2+ Qxc2 Rxc2 Kxc2 Nxa1+ Kd1 f3 Bc4,127,wRK---B--Q---r---P-p--bRNp-q--p-P-----n-pnp---bN-------------k--------
+1,,,,<memory at 0x000001883EAF8040>,1,denise,Simple AI,Ng6,Re1+ Kc2 Nd4#,-9997,bRK---B--Q---r---P-p---RNp-q--p-P-----n-pnp---bN--b----------k--------
+1,,,,<memory at 0x000001883EAF8100>,1,denise,Simple AI,Qxc4,Qxc4 c2+ Kc1 Rxe5 Qg8+ Kd7 Qf7+ Be7 Rd3+ Kc7 Rc3+ Nc5 Kxc2 f3,593,wRK---B--Q---r---P-p---RNp-q--p-P----Nn-pnp---b---b----------k--------
+1,,,,<memory at 0x000001883EAF81C0>,1,denise,Simple AI,Ne5,Be4+ Qc2 Bxc2+ Kc1 Rxe5 Rxc3 Re1+ Kxc2 Rxa1 Ng5 Bxg5 hxg5 Rxf1,-1827,bRK---B--Q---r---P-p---RNp-P--p-P----Nn-pnp---b---b---q------k--------
+1,,,,<memory at 0x000001883EAF8280>,1,denise,Simple AI,Rxe2,Qxe2+ Kf8 Rg5 Nd4 Qxh5 c2+ Kc1 Nb3+ Kxc2 Nxa1+ Kb1 Qxh5 Rxh5 f3,89,wRK---B--Q---r---P-pN--RNp-P--p-P-----n-pnp---b---b---q------k--------
+1,,,,<memory at 0x000001883EAF8340>,1,denise,Simple AI,Nd3,Nxg3 Ng5 Bxg5 hxg5 Nxf1 g6 Qxg6 Qc2 h4 Nxf4,-876,bRK---B--Q---P---P-pN--RNp-P--p-P-----n-pnp---b---b--rq------k--------
+1,,,,<memory at 0x000001883EAF8400>,1,denise,Simple AI,Ke8,Nxb7 fxg3 Bg2 Rxb7 Bxb7 Qxb7 Qc2 Qh1+ Ka2 Qxh3 Qxa4+ Kf7 Qxa6 Qxh4,-495,wRK---B--Q---P---P-p---RNp-P--p-P--N--n-pnp---b---b--rq------k--------
+1,,,,<memory at 0x000001883EAF84C0>,1,denise,Simple AI,Nc5+,Nxc5 Rxc3 Bxc3 Ng5 Be4+ Nxe4 Rxe4 Bg2 Rxc4 Bh3 Bxa1 Kxa1,-961,bRK---B--Q---P---P-p---RNp-P--p-P--N--n-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8580>,1,denise,Simple AI,exf4,Rd3+ Kc7 Nc1 Ne3 Rxe3 fxe3 Nd3 Rd7 Nhf4 Bxh4,-434,wRK---B--Q---P---PNp---RNp-P--p-P-----n-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8640>,1,denise,Simple AI,dxc4,Nxg3 Nc1 Nxf1 Ng5 Qg6+ Nd3 Nd2+ Kc1 Nb3+ Kb1 exf4,-908,bRK---B--Q---P---PNp---RNp-P--P-P----pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8700>,1,denise,Simple AI,dxc3,Nc5+ Nxc5 Ng5 Qg6 Bh3 exf4 e4 fxe3 Qxc4 Bxg5 Rxg5,-550,wRK---B--Q---P---PNpP--RNp-p--P-P----pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF87C0>,1,denise,Simple AI,Nb3,cxb3 Qb2 dxc3 Qxc3 exf4 Qd2 fxg3 Ng5 Qg8,-1007,bRK---B--Q---P---PNPP--RNp-pp-P-P----pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8880>,1,denise,Simple AI,c4,Ng5 Qg6 Rg1 cxd3 Ngf3 Ng3 Bh3+ Kc7 f5,-20,wRK---B--Q--NP---P-PP--RNp-pp-P-P----pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8940>,1,denise,Simple AI,Qa2,Qxa2+ Rxa2 Nxg3 fxe5 Rxe5 cxd4 cxd4 Ng5 Nxf1 Nxf1 Bxg5 hxg5 Bg2 Ng3 Rxg5,-498,bRK---B--Q--NP---P-PP--RNp--p-P-P--p-pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8A00>,1,denise,Simple AI,Bb7,Qxb6 Nxg3 Qxb7+ Nc7 Nc4 Nxf1 Nb6+ Ke6 f5+ Kxf5 Qe4+ Ke6 Qc6+ Kf5 Qe4+,0,wRK---B---Q-NP---P-PP--RNp--p-P-P--p-pn-pnp---b---b-krq---------------
+1,,,,<memory at 0x000001883EAF8AC0>,1,denise,Simple AI,Kb1,Nxg3 Ng5 Bxg5 hxg5 dxc3 Qxc3 exf4 Bh3+ Kc7 Bxc8 Kxc8 Qc4,-470,bRK---B---Q-NP---P-PP--RNp--p-P-P--p-pn-pnp---b-----krq----b----------
+1,,,,<memory at 0x000001883EAF8B80>,1,denise,Simple AI,Nxa6,Ng5 dxc3 Qxb6 Bxg5 Rxg5 Ne3+ Kc1 cxd2+ Kxd2 Qxf4 Bh3+ Ng4+ Kd1 Qd4,-58,wR----B---QKNP---P-PP--RNp--p-P-P--p-pn-pnp---b-----krq----b----------
+1,,,,<memory at 0x000001883EAF8C40>,1,denise,Simple AI,bxa6,Nxa6 Ng5 dxc3 Qxb6 Bxg5 Rxg5 Ne3+ Kc1 cxd2+ Kxd2 Qxf4 Bh3+ Ng4+ Kd1 Qd4,-58,bR----B---QKNP---P-PP--RNp--p-P-P--p-pn-pPp---b-----krq---nb----------
+1,,,,<memory at 0x000001883EAF8D00>,1,denise,Simple AI,Nxf5,bxa6 Bxa6 Qxb6 Nxg3 Qxb8 dxc3 Qa7+ Kd8 Qb6+ Rc7 Qxa6 cxd2 Kxd2 exf4,-20,wR----B---QKNP---P-PP--RNp--p-P-P-Pp-pn-prp---b-----krq---nb----------
+1,,,,<memory at 0x000001883EAF8DC0>,1,denise,Simple AI,Rg3,dxc3 Qa2 Ra5 Nc4 Rxb5 fxe5 Nxf5 exf6 Nxg3 fxe7 Nxf1,-249,bR----B---QKNP---P-PP--RNp--p-P-P-Pp-pP-prp---b-n---krq---nb----------
+1,,,,<memory at 0x000001883EAF8E80>,1,denise,Simple AI,Qf7,bxa6 dxc3 Qxb6 Nxf5 Rxf6 Ne3+ Kb1 Qd5 Nc4,527,wR----B---QKNP---P-PP---Np--p-P-P-Pp-pP-prp---bRn---krq---nb----------
+1,,,,<memory at 0x000001883EAF8F40>,1,denise,Simple AI,Nd2,Ra5 Ne4 Bxh4 f6 Re8 fxe5 Nf5 Nf4 Rxe5 Nxh5,-83,bR----B---QKNP---P-PP---Np--p-P-P-Pp-pP-prp---bRn---kr----nb--q-------
+1,,,,<memory at 0x000001883EAF9000>,1,denise,Simple AI,Rxe7,bxa6 Bxa6 Qxb6 Ng4 Bg2 Rg7 fxe5 Ne3+ Kb2 Rxg6 Qe6+ Kc7 fxg6 Bxh4,350,wRN---B---QK-P---P-PP---Np--p-P-P-Pp-pP-prp---bRn---kr----nb--q-------
+1,,,,<memory at 0x000001883EAF90C0>,1,denise,Simple AI,Rg6,Kxe7 bxa6 Nxa6 fxe5 Bxe5 Ng5 Nxf5 Nxh7 Ne3+ Kd2 Nxf1+ Ke1,259,bRN---B---QK-P---P-PP---Np--p-P-P-Pp-pP-prp---bRn---kB--r-nb--q-------
+1,,,,<memory at 0x000001883EAF9180>,1,denise,Simple AI,Bf6,Bxf8 Ra7 fxe5 Bxe5 Qa2 Kc7 Qd5 Nf7 Ng5,1318,wRN---BR--QK-P---P-PP---Np--p-P-P-Pp-pP-prp---b-n---kB--r-nb--q-------
+1,,,,<memory at 0x000001883EAF9240>,1,denise,Simple AI,gxf5,Qxe7 bxa6 Nxa6 Ng5 Rh8 Qxb6 Nxf5 Bh3 Rf8 Bxf5+ Rxf5,273,bRN---BR--QK-P---P-PP---Np--p-P-P-Pp-pP-prp-----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF9300>,1,denise,Simple AI,d4,Bxf8 Ra7 Ng5 Bxf8 Nxh7 Bd6 fxe5 Bxe5 gxh5,1324,wRN---BR--QK-P---P-PP---Np--p-PPP-Pp-pp-prp-----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF93C0>,1,denise,Simple AI,Kc2,Qxe7 bxa6 Nxa6 Ng5 Rh8 gxf5 Nxf5 Qxb6 exf4 Qb5+ Kc7 Qa5+ Kb8 Qxa4,148,bRN---BR--QK-P---P-PP---Np----PPP-Ppppp-prp-----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF9480>,1,denise,Simple AI,a4,Bxf8 Ra7 Ng5 Bxf8 Nxh7 Be7 fxe5 Nxg4,1284,wRN-K-BR--Q--P---P-PP---Np----PPP-Ppppp-prp-----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF9540>,1,denise,Simple AI,f4,Qxe7 bxa6 Nxa6 Ng5 Rh8 Bg2 Nxg4 fxe5 Ne3+ Kd2 Qxe5 Qxb6,184,bRN-K-BR--Q--P---P-PP---N-----PPPpPpppp-prp-----n---kB-br-nb--q------f
+1,,,,<memory at 0x000001883EAF9600>,1,denise,Simple AI,c5,Bxf8 Ra7 Ng5 Bxf8 Nxh7 Be7 gxh5 Bxh4,1242,wRN-K-BR--Q--PP--P-PP---N------PPpPpppp-prp-----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF96C0>,1,denise,Simple AI,Rg1,Qxe7 bxa6 Nxa6 Ng5 Rh8 Qxb6 fxg4 Qxa5 Nf5,162,bRN-K-BR--Q--PP--P-PP---N------PPpP-ppp-prpp----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF9780>,1,denise,Simple AI,Ra6,Bxf8 Bxf8 bxa6 Nxa6 Ng5 Rg7 gxf5 Nxf5 c4 Kc7 cxd5,1180,wRN-K-B-R-Q--PP--P-PP---N------PPpP-ppp-prpp----n---kB-br-nb--q-------
+1,,,,<memory at 0x000001883EAF9840>,1,denise,Simple AI,a3,Qxe7 bxc6+ Nxc6 gxf5 Nxf5 Bg2 Qc5 Ng5 Rh8 e4 Nfe7 exd5 Nxd5 Bxd5 Qxd5,-261,bRN-K-B-R-Q--PP--P-PP---N------PPpP-ppp-p-pp----n---kB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9900>,1,denise,Simple AI,a5,Bxf8 Bxf8 gxf5 Nxf5 c4 dxc4 Qxe5 Kd8 bxc6 cxd3,857,wRN-K-B-RPQ--PP----PP---N------PPpP-ppp-p-pp----n---kB-brrnb--q------a
+1,,,,<memory at 0x000001883EAF99C0>,1,denise,Simple AI,Nh3,Qxe7 bxc6+ Kxc6 gxf5 Qxh4 Bg2 Qg4 Rg1 Qa4+ Ke1 Nxf5,-265,bRN-K-B-RPQ--PP----PP---N------PP-P-ppp-p-pp----np--kB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9A80>,1,denise,Simple AI,b6,Bxf8 Bxf8 gxf5 Ng4 e4 dxe4 dxe4 Bc5 Qd2+ Kc7 Nh3,817,wRN-K-BNRPQ--PP----PP----------PP-P-ppp-p-pp----np--kB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9B40>,1,denise,Simple AI,h4,Qxe7 gxf5 Nxf5 Nf3 Kc7 Nbd2 Bf6 Bh3 e4 Bxf5 Bxf5,-287,bRN-K-BNRPQ--PP----PP----------PP-P-ppp-p--p----npp-kB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9C00>,1,denise,Simple AI,c6,Bxf8 Bxf8 g5 Ng8 Nf3 e4 Nd4 Be7 g6,853,wRN-K-BNRPQ--PP----PP---P------P--P-ppp-p--p----npp-kB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9CC0>,1,denise,Simple AI,Kd1,Qxe7 Qb3 c6 bxc6+ bxc6 g5 Qxg5 Nf3 Qf4 Nbd2,-289,bRN-K-BNRPQ--PP----PP---P------P--P-ppp-p-------npppkB-brrnb--q-------
+1,,,,<memory at 0x000001883EAF9D80>,1,denise,Simple AI,Qf8,Bxf8 Bxf8 g5 Ng8 c4 d4 Nf3 Bd6 Nbd2,870,wRN--KBNRPQ--PP----PP---P------P--P-ppp-p-------npppkB-brrnb--q--KQ---
+1,,,,<memory at 0x000001883EAF9E40>,1,denise,Simple AI,b5,Qxe7 Bg2 e4 Qd2 Ke8 dxe4 dxe4 Qd5 Qd6 Qxd6 cxd6 gxh5,-275,bRN--KBNRPQ--PP----PP---P------P--P-ppp-p-------npppkB-brrnbq----KQ---
+1,,,,<memory at 0x000001883EAF9F00>,1,denise,Simple AI,Kd7,Bxd8 Kxd8 Qb3 Be6 Nf3 Rh8 Ng5 Bg8 gxh5,811,wRN--KBNRPQ--PP----PP---P-P----P----ppp-p-------npppkB-brrnbq----KQ---
+1,,,,<memory at 0x000001883EAF9FC0>,1,denise,Simple AI,Be7,Qxe7 Bg2 e4 Nd2 Nc6 b5 Ne5 gxh5,-312,bRN--KBNRPQ--PP----PP---P-P----P----ppp-p-------nppp-B-brrnbqk---KQ-q-
+1,,,,<memory at 0x000001883EAFA080>,1,denise,Simple AI,d5,Bxd8 Kxd8 Qb3 Be6 Nf3 Rh8 Ng5 Bg8 gxh5,811,wRN--KBNRPQ--PP----PP---P-P----P----pppBp-------nppp---brrnbqk---KQ-qd
+1,,,,<memory at 0x000001883EAFA140>,1,denise,Simple AI,Qb2,Qxg5 Nf3 Qg6 gxf5 Nxf5 e4 Ne7 Rg1 Qe6,-247,bRN--KBNRPQ--PP----PP---P-P----P-----ppBp-------npppp--brrnbqk---KQ-q-
+1,,,,<memory at 0x000001883EAFA200>,1,denise,Simple AI,e5,Bxd8 Nf7 Bxc7 Na6 Ba5 hxg4 Bg2 Bh6,1033,wRN--KBNRP--QPP----PP---P-P----P-----ppBp-------npppp--brrnbqk---KQ-qe
+1,,,,<memory at 0x000001883EAFA2C0>,1,denise,Simple AI,c3,Nc6 gxf5 Nxf5 e4 Nd6 Nf3 Nf7 d4 d5,57,bRN--KBNRP--QPP----PP---P-P----P------pBp-------nppppp-brrnbqk---KQ-q-
+1,,,,<memory at 0x000001883EAFA380>,1,denise,Simple AI,Rh7,Nc3 Nf7 Bh4 a5 Nd5 Nc6 Qf4 Bxa1 Nxc7+ Kf8 Nxa8 Nxb4 Qxf5 Nxc2+ Kd1,68,wRN--KBNRP-PQPP-----P---P-P----P------pBp-------nppppp-brrnbqk---KQ-q-
+1,,,,<memory at 0x000001883EAFA440>,1,denise,Simple AI,Qd2,Bxa1 Bxh6 d5 gxf5 Qd6 Bf4 Qc6 Nf3 Bxf5,-94,bRN--KBNRP-PQPP-----P---P-P----P------pBp-------nppppp-b-rnbqk--rKQkq-
+1,,,,<memory at 0x000001883EAFA500>,1,denise,Simple AI,Bg7,c3 Nf7 Bh4 d5 Nf3 Nc6 gxf5 Bxf5 Rg1,13,wRN-QKBNRP-P-PP-----P---P-P----P------pBp-------nppppp-b-rnbqk--rKQkq-
+1,,,,<memory at 0x000001883EAFA5C0>,1,denise,Simple AI,g4,Bg7 c3 Nf7 Bh4 hxg4 hxg4 fxg4 Bg2 Nc6,-6,bRN-QKBNRP-P-PP-----P---P-P----P------pBp-------nppppp---rnbqkb-rKQkqg
+1,,,,<memory at 0x000001883EAFA680>,1,denise,Simple AI,Nh6,Nf3 Bg7 d4 Nf7 Bf4 Nc6 b5 Nb4,87,wRN-QKBNRP-P-PPP----P---P-P-----------pBp-------nppppp---rnbqkb-rKQkq-
+1,,,,<memory at 0x000001883EAFA740>,1,denise,Simple AI,Bxg5,Nc6 c3 Bh6 Nf3 d5 Nbd2 Nf6 Bxf6 exf6,82,bRN-QKBNRP-P-PPP----P---P-P-----------pBp--------ppppp---rnbqkbnrKQkq-
+1,,,,<memory at 0x000001883EAFA800>,1,denise,Simple AI,h5,Bxg5 Nc6 c3 Nf6 Nf3 d5 b5 Na5,76,wRNBQKBNRP-P-PPP----P---P-P-----------ppp--------ppppp---rnbqkbnrKQkqh
+1,,,,<memory at 0x000001883EAFA8C0>,1,denise,Simple AI,h3,e6 c3 Nc6 Nf3 f4 b5 Na5 Na3,33,bRNBQKBNRP-P-PPP----P---P-P-----------pp---------ppppp--prnbqkbnrKQkq-
+1,,,,<memory at 0x000001883EAFA980>,1,denise,Simple AI,f5,Bxg5 Bg7 d4 h6 Bf4 Nc6 e4 Nf6,81,wRNBQKBNRP-P-PPPP---P-----P-----------pp---------ppppp--prnbqkbnrKQkqf
+1,,,,<memory at 0x000001883EAFAA40>,1,denise,Simple AI,b4,Bg7 c3 g4 e4 Nf6 Bf4 Nc6 Na3,-6,bRNBQKBNRP-P-PPPP---P-----P------------p---------pppppp-prnbqkbnrKQkqb
+1,,,,<memory at 0x000001883EAFAB00>,1,denise,Simple AI,g5,Bxg5 Nf6 Nf3 Nc6 Nc3 d5 Bxf6 exf6 e4,99,wRNBQKBNRPPP-PPPP---P------------------p---------pppppp-prnbqkbnrKQkqg
+1,,,,<memory at 0x000001883EAFABC0>,1,denise,Simple AI,d3,Nc6 Nf3 Nf6 Nc3 d5 Bf4 Bf5 h3,8,bRNBQKBNRPPP-PPPP---P----------------------------pppppppprnbqkbnrKQkq-
