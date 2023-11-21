@@ -1,7 +1,13 @@
 """
+Module: test_connection.py
+
 Module that contains tests for Connection class.
 
 This module tests the functionality of the Connection class from the exporting module.
+
+Author: Denise Postl
+History: 20231121 12:10 Defined and Implemented Test Class
+
 """
 
 import pytest
