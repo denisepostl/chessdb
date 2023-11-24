@@ -1,7 +1,0 @@
-README.md
-setup.py
-exporting_csv.egg-info/PKG-INFO
-exporting_csv.egg-info/SOURCES.txt
-exporting_csv.egg-info/dependency_links.txt
-exporting_csv.egg-info/requires.txt
-exporting_csv.egg-info/top_level.txt
