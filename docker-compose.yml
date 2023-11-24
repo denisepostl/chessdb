@@ -30,7 +30,7 @@ services:
     environment:
       POSTGRES_HOST_AUTH_METHOD: trust
     ports:
-      - 5432:5432
+      - 1234:5432
     volumes:
       - ./config/postgresql.conf:/etc/postgresql/postgresql.conf
       - ./chessdb:/var/lib/postgresql/data
